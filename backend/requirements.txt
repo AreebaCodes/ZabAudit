@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pdfplumber
+openpyxl
+sqlalchemy
+pydantic
+"passlib[bcrypt]" 
+python-multipart
+psycopg2-binary
+pg8000
+
